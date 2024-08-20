@@ -1,0 +1,7 @@
+{
+  "name": "AppScanier",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
